@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Mario! Mis amigos me dicen Marito :)
+# ¡Hola! 👋 Soy Mario!
 
 Soy Desarrollador Full Stack.
 
